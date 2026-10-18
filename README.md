@@ -55,7 +55,7 @@ If you have questions or found a bug, reach out to the community channels:
 
 <div align="center">
 
-  <img width="120px" src="./Logo/256.png" alt="Sonarr Logo">
+  <img width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNi9p0yqdZB4GuIReYq-QmbRWLlGpFSxnJKH8x9SPlDg&s=10" alt="Sonarr Logo">
 
 
  

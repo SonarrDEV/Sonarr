@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="120px" src="./Logo/256.png" alt="Sonarr Logo">
+  <img width="120px" src="https://getumbrel.github.io/umbrel-apps-gallery/sonarr/icon.svg" alt="Sonarr Logo">
 
   # 🌟 Sonarr (Customized Edition)
 

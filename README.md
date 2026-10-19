@@ -58,4 +58,51 @@ If you have questions or found a bug, reach out to the community channels:
   <img width="120px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNi9p0yqdZB4GuIReYq-QmbRWLlGpFSxnJKH8x9SPlDg&s=10" alt="Sonarr Logo">
 
 
+
+
+
+
+# <img width="24px" src="./Logo/256.png" alt="Sonarr"></img> Sonarr
+
+[![Translated](https://translate.servarr.com/widget/servarr/sonarr/svg-badge.svg)](https://translate.servarr.com/engage/servarr/)
+[![Backers on Open Collective](https://opencollective.com/Sonarr/backers/badge.svg)](#backers)
+[![Sponsors on Open Collective](https://opencollective.com/Sonarr/sponsors/badge.svg)](#sponsors)
+[![Mega Sponsors on Open Collective](https://opencollective.com/Sonarr/megasponsors/badge.svg)](#mega-sponsors)
+
+Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
+
+## Getting Started
+
+- [Download/Installation](https://sonarr.tv/#downloads-v3)
+- [FAQ](https://wiki.servarr.com/sonarr/faq)
+- [Wiki](https://wiki.servarr.com/Sonarr)
+- [API Documentation](https://sonarr.tv/docs/api)
+- [Donate](https://sonarr.tv/donate)
+
+## Support
+
+Note: GitHub Issues are for Bugs and Feature Requests Only
+
+- [Forums](https://forums.sonarr.tv/)
+- [Discord](https://discord.gg/M6BvZn5)
+- [GitHub - Bugs and Feature Requests Only](https://github.com/Sonarr/Sonarr/issues)
+- [IRC](https://web.libera.chat/?channels=#sonarr)
+- [Reddit](https://www.reddit.com/r/sonarr)
+- [Wiki](https://wiki.servarr.com/sonarr)
+
+## Features
+
+### Current Features
+
+- Support for major platforms: Windows, Linux, macOS, Raspberry Pi, etc.
+- Automatically detects new episodes
+- Can scan your existing library and download any missing episodes
+- Can watch for better quality of the episodes you already have and do an automatic upgrade. _eg. from DVD to Blu-Ray_
+- Automatic failed download handling will try another release if one fails
+- Manual search so you can pick any release or to see why a release was not downloaded automatically
+- Fully configurable episode renaming
+- Full integration with SABnzbd and NZBGet
+- Full integration with Kodi, Plex (notification, library update, metadata)
+- Full support for specials and multi-episode releases
+- And a beautiful UI
  
